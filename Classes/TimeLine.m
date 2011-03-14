@@ -28,7 +28,6 @@
 //============== sisa karakter di klik keyboard menghilang =========
 -(IBAction)done:(id)sender {
 	[status resignFirstResponder];
-	
 }
 //======= hilangkan keyboard saat return di keyboard di tekan ======
 - (BOOL) textFieldShouldReturn:(UITextField *)textField { 
