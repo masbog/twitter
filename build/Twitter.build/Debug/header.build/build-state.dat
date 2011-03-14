@@ -1,0 +1,140 @@
+Theader
+v7
+r1
+cCheck dependencies
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/DM.png
+c000000004D394AC20000000000001004
+t1295600322
+s4100
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/Direct.xib
+c000000004D6F874A0000000000004DEE
+t1299154762
+s19950
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/MainWindow.xib
+c000000004D56A002000000000000804D
+t1297522690
+s32845
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/Mentions.xib
+c000000004D6F871D0000000000004E77
+t1299154717
+s20087
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/Replies.png
+c000000004D39475E00000000000004A2
+t1295599454
+s1186
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/TimeLine.png
+c000000004D3940D400000000000007B6
+t1295597780
+s1974
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/TimeLine.xib
+c000000004D6F8AE900000000000072E9
+t1299155689
+s29417
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/back.png
+c000000004D6F89E40000000000001923
+t1299155428
+s6435
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app
+t2
+s0
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app/Contents/Info.plist
+t2
+s0
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app/Contents/PkgInfo
+t2
+s0
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app/Contents/Resources/DM.png
+t2
+s0
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app/Contents/Resources/Direct.nib
+t2
+s0
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app/Contents/Resources/Mentions.nib
+t2
+s0
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app/Contents/Resources/Replies.png
+t2
+s0
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app/Contents/Resources/TimeLine.nib
+t2
+s0
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app/Contents/Resources/TimeLine.png
+t2
+s0
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app/Contents/Resources/back.png
+t2
+s0
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app/Contents/Resources/next.png
+t2
+s0
+
+N/Volumes/DATA/XCode_Project/iPhone/Twitter/next.png
+c000000004D6F89F9000000000000197F
+t1299155449
+s6527
+
+NTwitter-Info.plist
+c000000004D53EA33000000000000038D
+t1297345075
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321028343#321028343#0(66"[BEROR]error: There is no SDK with the name or path 'iphoneos4.0'1(4@58"error: There is no SDK with the name or path 'iphoneos4.0'321028343#18446744073709551615#0#0(1@0"0(0#1#0"22518449111498868#0"0#
+
+CCompileXIB /Volumes/DATA/XCode_Project/iPhone/Twitter/Direct.xib
+r0
+
+CCompileXIB /Volumes/DATA/XCode_Project/iPhone/Twitter/MainWindow.xib
+r0
+
+CCompileXIB /Volumes/DATA/XCode_Project/iPhone/Twitter/Mentions.xib
+r0
+
+CCompileXIB /Volumes/DATA/XCode_Project/iPhone/Twitter/TimeLine.xib
+r0
+
+CCpResource build/Debug/Twitter.app/Contents/Resources/DM.png DM.png
+r0
+
+CCpResource build/Debug/Twitter.app/Contents/Resources/Replies.png Replies.png
+r0
+
+CCpResource build/Debug/Twitter.app/Contents/Resources/TimeLine.png TimeLine.png
+r0
+
+CCpResource build/Debug/Twitter.app/Contents/Resources/back.png back.png
+r0
+
+CCpResource build/Debug/Twitter.app/Contents/Resources/next.png next.png
+r0
+
+CProcessInfoPlistFile /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app/Contents/Info.plist Twitter-Info.plist
+r0
+
+CTouch /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug/Twitter.app
+r0
+
