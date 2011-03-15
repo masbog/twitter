@@ -20,4 +20,5 @@
 }
 @property (nonatomic, retain)IBOutlet UIButton *keluar;
 -(IBAction)keluar:(id)sender;
+-(void)login;
 @end

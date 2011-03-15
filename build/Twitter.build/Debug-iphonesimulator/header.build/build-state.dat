@@ -1,7 +1,7 @@
 Theader
 v7
 r0
-t321793170.345883
+t321896594.358508
 cCheck dependencies
 cProcessInfoPlistFile /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Info.plist Twitter-Info.plist
 cCompileXIB /Users/masbog/twitter/MainWindow.xib
@@ -158,17 +158,17 @@ s1542
 i"Mentions.h"
 
 N/Users/masbog/twitter/Classes/Options.h
-c000000004D79DA75000000000000020A
-t1299831413
-s522
+c000000004D7F87A20000000000000218
+t1300203426
+s536
 i<UIKit/UIKit.h>
 i"SA_OAuthTwitterEngine.h"
 i"SA_OAuthTwitterController.h"
 
 N/Users/masbog/twitter/Classes/Options.m
-c000000004D7A2E3A0000000000000CBE
-t1299852858
-s3262
+c000000004D7F890C0000000000000D5D
+t1300203788
+s3421
 i"Options.h"
 i"TimeLine.h"
 
@@ -609,11 +609,11 @@ t1299155428
 s6435
 
 N/Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app
-t1300100368
+t1300203794
 s544
 
 N/Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app.dSYM
-t1300100368
+t1300203794
 s102
 
 N/Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/DM.png
@@ -661,8 +661,8 @@ t1299335605
 s1974
 
 N/Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter
-t1300100368
-s219924
+t1300203794
+s220016
 
 N/Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/back.png
 t1299335605
@@ -737,8 +737,8 @@ t1300099813
 s3408
 
 N/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/Options.o
-t1300099813
-s45056
+t1300203794
+s45464
 
 N/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/Regex.o
 t1300099813
@@ -753,8 +753,8 @@ t1300099813
 s45560
 
 N/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/TimeLine.o
-t1300100368
-s60448
+t1300203619
+s59964
 
 N/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/Twitter.LinkFileList
 c000000004D7DF2E30000000000000A8E
@@ -1774,7 +1774,7 @@ lSLF07#2@57"Analyze /Volumes/DATA/XCode_Project/iPhone/Twitter/main.m321028559#3
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies321793170#321793170#0(0"0(0#1#0"8616329472#0"0#
+lSLF07#2@18"Check dependencies321896594#321896594#0(0"0(0#1#0"8616832384#0"0#
 
 CCompileC build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/Auth.o /Volumes/DATA/XCode_Project/iPhone/Twitter/Classes/Auth.m normal i386 objective-c com.apple.compilers.gcc.4_2
 r0
@@ -2496,8 +2496,8 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF07#2@96"Compile /Volumes/DATA/XCode_Project/iPhone/Twitter/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m321028407#321028408#0(0"0(0#0#88"/Volumes/DATA/XCode_Project/iPhone/Twitter/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m8609235040#2141"    cd /Volumes/DATA/XCode_Project/iPhone/Twitter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-generated-files.hmap -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-own-target-headers.hmap -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-all-target-headers.hmap -iquote /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-project-headers.hmap -F/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources/i386 -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources -include /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Twitter_Prefix-ghqiithivniyqlalhddihhqaavqi/Twitter_Prefix.pch -c /Volumes/DATA/XCode_Project/iPhone/Twitter/Twitter+OAuth/MGTwitterEngine/NSString+UUID.m -o /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/NSString+UUID.o0#
 
 CCompileC build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/Options.o /Users/masbog/twitter/Classes/Options.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s321792613.196241
-e321792613.277070
+s321896594.094302
+e321896594.190758
 r1
 xCompileC
 xbuild/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/Options.o
@@ -2506,7 +2506,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF07#2@47"Compile /Users/masbog/twitter/Classes/Options.m321792613#321792613#0(0"0(0#0#39"/Users/masbog/twitter/Classes/Options.m8604848288#1876"    cd /Users/masbog/twitter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-generated-files.hmap -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-own-target-headers.hmap -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-all-target-headers.hmap -iquote /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-project-headers.hmap -F/Users/masbog/twitter/build/Debug-iphonesimulator -I/Users/masbog/twitter/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources/i386 -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources -include /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Twitter_Prefix-ackswfiujtnjfealqqshqqluzrpi/Twitter_Prefix.pch -c /Users/masbog/twitter/Classes/Options.m -o /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/Options.o0#
+lSLF07#2@47"Compile /Users/masbog/twitter/Classes/Options.m321896594#321896594#0(0"0(0#0#39"/Users/masbog/twitter/Classes/Options.m8616277184#1876"    cd /Users/masbog/twitter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-generated-files.hmap -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-own-target-headers.hmap -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-all-target-headers.hmap -iquote /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-project-headers.hmap -F/Users/masbog/twitter/build/Debug-iphonesimulator -I/Users/masbog/twitter/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources/i386 -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources -include /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Twitter_Prefix-ackswfiujtnjfealqqshqqluzrpi/Twitter_Prefix.pch -c /Users/masbog/twitter/Classes/Options.m -o /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/Options.o0#
 
 CCompileC build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/Options.o /Volumes/DATA/XCode_Project/iPhone/Twitter/Classes/Options.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s321545650.108953
@@ -2636,8 +2636,8 @@ xcom.apple.compilers.llvm.clang.1_0.compiler
 lSLF07#2@109"Compile /Volumes/DATA/XCode_Project/iPhone/Twitter/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m321028408#321028408#0(0"0(0#0#101"/Volumes/DATA/XCode_Project/iPhone/Twitter/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m8603255232#2162"    cd /Volumes/DATA/XCode_Project/iPhone/Twitter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-generated-files.hmap -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-own-target-headers.hmap -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-all-target-headers.hmap -iquote /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-project-headers.hmap -F/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources/i386 -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources -include /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Twitter_Prefix-ghqiithivniyqlalhddihhqaavqi/Twitter_Prefix.pch -c /Volumes/DATA/XCode_Project/iPhone/Twitter/Twitter+OAuth/SAOAuthTwitterEngine/SA_OAuthTwitterEngine.m -o /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/SA_OAuthTwitterEngine.o0#
 
 CCompileC build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/TimeLine.o /Users/masbog/twitter/Classes/TimeLine.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s321793168.744477
-e321793168.840534
+s321896418.837608
+e321896419.715775
 r1
 xCompileC
 xbuild/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/TimeLine.o
@@ -2646,7 +2646,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF07#2@48"Compile /Users/masbog/twitter/Classes/TimeLine.m321793168#321793168#0(0"0(0#0#40"/Users/masbog/twitter/Classes/TimeLine.m8595810240#1878"    cd /Users/masbog/twitter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-generated-files.hmap -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-own-target-headers.hmap -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-all-target-headers.hmap -iquote /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-project-headers.hmap -F/Users/masbog/twitter/build/Debug-iphonesimulator -I/Users/masbog/twitter/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources/i386 -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources -include /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Twitter_Prefix-ackswfiujtnjfealqqshqqluzrpi/Twitter_Prefix.pch -c /Users/masbog/twitter/Classes/TimeLine.m -o /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/TimeLine.o0#
+lSLF07#2@48"Compile /Users/masbog/twitter/Classes/TimeLine.m321896418#321896419#0(0"0(0#0#40"/Users/masbog/twitter/Classes/TimeLine.m8319383698887823360#1878"    cd /Users/masbog/twitter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-generated-files.hmap -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-own-target-headers.hmap -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-all-target-headers.hmap -iquote /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-project-headers.hmap -F/Users/masbog/twitter/build/Debug-iphonesimulator -I/Users/masbog/twitter/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/libxml2 -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources/i386 -I/Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources -include /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Twitter_Prefix-ackswfiujtnjfealqqshqqluzrpi/Twitter_Prefix.pch -c /Users/masbog/twitter/Classes/TimeLine.m -o /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/TimeLine.o0#
 
 CCompileC build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/TimeLine.o /Volumes/DATA/XCode_Project/iPhone/Twitter/Classes/TimeLine.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s321013180.547011
@@ -2887,13 +2887,13 @@ xnext.png
 lSLF07#2@13"Copy next.png321028405#321028405#0(0"0(0#0#51"/Volumes/DATA/XCode_Project/iPhone/Twitter/next.png8609950272#478"    cd /Volumes/DATA/XCode_Project/iPhone/Twitter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Volumes/DATA/XCode_Project/iPhone/Twitter/next.png /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator/Twitter.app0#
 
 CGenerateDSYMFile /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app.dSYM /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter
-s321793168.895758
-e321793168.934011
+s321896594.251448
+e321896594.354686
 r1
 xGenerateDSYMFile
 x/Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app.dSYM
 x/Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter
-lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Twitter.app.dSYM build/Debug-iphonesimulator/Twitter.app/Twitter321793168#321793168#0(0"0(0#0#69"/Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter8615827104#332"    cd /Users/masbog/twitter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter -o /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app.dSYM0#
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Twitter.app.dSYM build/Debug-iphonesimulator/Twitter.app/Twitter321896594#321896594#0(0"0(0#0#69"/Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter8618422720#332"    cd /Users/masbog/twitter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter -o /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app.dSYM0#
 
 CGenerateDSYMFile /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator/Twitter.app.dSYM /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator/Twitter.app/Twitter
 s321544046.808153
@@ -2905,14 +2905,14 @@ x/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator/Twitter.
 lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/Twitter.app.dSYM build/Debug-iphonesimulator/Twitter.app/Twitter321544046#321544046#0(0"0(0#0#90"/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator/Twitter.app/Twitter8619371232#395"    cd /Volumes/DATA/XCode_Project/iPhone/Twitter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator/Twitter.app/Twitter -o /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator/Twitter.app.dSYM0#
 
 CLd /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter normal i386
-s321793168.840618
-e321793168.895646
+s321896594.190850
+e321896594.251347
 r1
 xLd
 x/Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter
 xnormal
 xi386
-lSLF07#2@74"Link /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter321793168#321793168#0(0"0(0#0#0"8615929856#886"    cd /Users/masbog/twitter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/masbog/twitter/build/Debug-iphonesimulator -L/Users/masbog/twitter/Twitter+OAuth/SAOAuthTwitterEngine -F/Users/masbog/twitter/build/Debug-iphonesimulator -filelist /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/Twitter.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2 -lOAuth -o /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter0#
+lSLF07#2@74"Link /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter321896594#321896594#0(0"0(0#0#0"8618468992#886"    cd /Users/masbog/twitter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/clang -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/masbog/twitter/build/Debug-iphonesimulator -L/Users/masbog/twitter/Twitter+OAuth/SAOAuthTwitterEngine -F/Users/masbog/twitter/build/Debug-iphonesimulator -filelist /Users/masbog/twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Objects-normal/i386/Twitter.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lxml2 -lOAuth -o /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app/Twitter0#
 
 CLd /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator/Twitter.app/Twitter normal i386
 s321544046.747596
@@ -2989,12 +2989,12 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@29"Precompile Twitter_Prefix.pch321013179#321013180#0(0"0(0#0#61"/Volumes/DATA/XCode_Project/iPhone/Twitter/Twitter_Prefix.pch8607468928#1933"    cd /Volumes/DATA/XCode_Project/iPhone/Twitter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-generated-files.hmap -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-own-target-headers.hmap -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-all-target-headers.hmap -iquote /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/Twitter-project-headers.hmap -F/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator/include -I/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/libxml2 -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources/i386 -I/Volumes/DATA/XCode_Project/iPhone/Twitter/build/Twitter.build/Debug-iphonesimulator/header.build/DerivedSources -c /Volumes/DATA/XCode_Project/iPhone/Twitter/Twitter_Prefix.pch -o /var/folders/kK/kKKtxllFGeWAhTTifEDBo++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Twitter_Prefix-hdtrfgbllwxvlvdzhhsquicdoaoc/Twitter_Prefix.pch.gch0#
 
 CTouch /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app
-s321793168.934104
-e321793168.936843
+s321896594.354771
+e321896594.358465
 r1
 xTouch
 x/Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app
-lSLF07#2@67"Touch /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app321793168#321793168#0(0"0(0#0#0"8615795744#244"    cd /Users/masbog/twitter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app0#
+lSLF07#2@67"Touch /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app321896594#321896594#0(0"0(0#0#0"8616915232#244"    cd /Users/masbog/twitter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/masbog/twitter/build/Debug-iphonesimulator/Twitter.app0#
 
 CTouch /Volumes/DATA/XCode_Project/iPhone/Twitter/build/Debug-iphonesimulator/Twitter.app
 s321544046.847174

@@ -20,18 +20,20 @@ TimeLine *timeline;
 	timeline = [[TimeLine alloc]initWithNibName:@"TimeLine" bundle:nil];
 	//[[self navigationController] pushViewController:timeline animated:YES];
 	
+	[self login];
+	
 	self.tabBarController.selectedViewController = timeline; 
 	self.tabBarController.selectedViewController = [self.tabBarController.viewControllers objectAtIndex:0];
 	
 
 }
 
-//========================================
+//======================================== mesin twitter =============
 
-- (void)viewDidAppear:(BOOL)animated {
-	
-	if(mesin) return;
-	
+//================ void LOGIN ==============
+
+- (void)login{
+	//if(mesin) return;
 	
 	mesin = [[SA_OAuthTwitterEngine alloc] initOAuthWithDelegate:self];
 	mesin.consumerKey = @"CtNjN5EUNGXLolICrtIhnw";
@@ -46,7 +48,14 @@ TimeLine *timeline;
 		authors = [[NSMutableArray alloc] init];
 		//[self updateStream:nil];
 	}
+	
 }
+
+//=========== akhir void LOGIN ==============
+
+- (void)viewDidAppear:(BOOL)animated {
+	
+	}
 
 - (void) storeCachedTwitterOAuthData: (NSString *) data forUsername: (NSString *) username {
 	
