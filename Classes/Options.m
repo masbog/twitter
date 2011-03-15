@@ -35,6 +35,8 @@ TimeLine *timeline;
 - (void)login{
 	//if(mesin) return;
 	
+	[[NSUserDefaults standardUserDefaults] removeObjectForKey:@"authData"];
+	
 	mesin = [[SA_OAuthTwitterEngine alloc] initOAuthWithDelegate:self];
 	mesin.consumerKey = @"CtNjN5EUNGXLolICrtIhnw";
 	mesin.consumerSecret = @"Od9lOuzJIF82OPU5m2VAqPK8Jonft9A0xBAiyQTbyE";
